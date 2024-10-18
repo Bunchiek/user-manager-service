@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Oskari",
+        "last": "Kujala"
+      },
+      "location": {
+        "street": {
+          "number": 4802,
+          "name": "Nordenskiöldinkatu"
+        },
+        "city": "Parikkala",
+        "state": "Northern Ostrobothnia",
+        "country": "Finland",
+        "postcode": 21396,
+        "coordinates": {
+          "latitude": "-25.6195",
+          "longitude": "-19.3260"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "oskari.kujala@example.com",
+      "login": {
+        "uuid": "b6a77962-6189-471a-8294-eea76a85ac66",
+        "username": "purplefish937",
+        "password": "budweise",
+        "salt": "xgFMBhOY",
+        "md5": "1c12e5e7f70b263d9589c04682628b51",
+        "sha1": "cdf7c2b0cd6ee05b55293917762b5c585d53b3ec",
+        "sha256": "da5c3d1931fa02f48b7af6d7917ecce6d1fd7b5e87f81a58eb7441e1ff6ce3a2"
+      },
+      "dob": {
+        "date": "1996-02-09T01:11:48.783Z",
+        "age": 28
+      },
+      "registered": {
+        "date": "2015-11-24T15:31:02.235Z",
+        "age": 8
+      },
+      "phone": "05-653-673",
+      "cell": "044-732-48-14",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA903undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": {
+    "seed": "5c3e72113f244d4a",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
